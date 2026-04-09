@@ -62,15 +62,12 @@ Special interest in system architecture, automation, and real-time communication
 - Focus on scalable and monetizable solutions  
 
 ---
-
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhmammad-codx&show_icons=false&hide_title=true&hide_border=true&theme=dark" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmammad-codx&layout=compact&hide_border=true&theme=dark" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhmammad-codx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmammad-codx&layout=compact&theme=dark&hide_border=true" height="130"/>
 </p>
-
----
 
 ## Collaboration
 
