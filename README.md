@@ -30,7 +30,8 @@ Special interest in system architecture, automation, and real-time communication
 
 - Backend architecture design  
 - ERP system development  
-- REST API & WebSocket systems  
+- REST API development  
+- WebSocket-based real-time systems  
 - Local network communication  
 - Startup product development  
 
@@ -48,33 +49,40 @@ Special interest in system architecture, automation, and real-time communication
 ## Projects
 
 ### ERP System
-- Business process automation  
-- Modular system architecture  
-- Role-based access control  
+- Business process automation
+- Modular system architecture
+- Role-based access control
 
 ### Real-Time Communication System
-- Built using WebSocket  
-- Optimized for local network environments  
-- Low latency communication  
+- Built with WebSocket
+- Optimized for local network environments
+- Low-latency communication
 
 ### Startup Products
-- Participating as backend partner  
-- Focus on scalable and monetizable solutions  
+- Participating as backend partner
+- Focused on scalable and monetizable solutions
 
 ---
+
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhmammad-codx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="130"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhmammad-codx&layout=compact&theme=dark&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-codx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-codx&layout=compact&theme=dark&hide_border=true" height="130"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammad-codx&theme=dark&hide_border=true" height="130"/>
+</p>
+
+---
 
 ## Collaboration
 
 Open to:
-- Startup partnerships (equity-based)  
-- Backend system development  
-- ERP and automation projects  
+- Startup partnerships (equity-based)
+- Backend system development
+- ERP and automation projects
 
 ---
 
@@ -86,7 +94,5 @@ Email: akbarshoh.boymirzayev@mail.ru
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=100&section=footer"/>
 </div>
