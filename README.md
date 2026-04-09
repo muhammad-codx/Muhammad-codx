@@ -83,8 +83,8 @@ Open to:
 
 ## Contact
 
-Telegram: @your_username  
-Email: your_email@example.com  
+Telegram: @muhammad_codx  
+Email: akbarshoh.boymirzayev@mail.ru  
 
 ---
 
