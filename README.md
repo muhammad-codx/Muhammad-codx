@@ -99,27 +99,15 @@ Backend systems for scalable, practical, and business-focused digital products.
 
 </div>
 
-<br />
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-codx&theme=github_dark" />
-
-</div>
-
 ---
 
-## `07` Languages & Technologies
+## `07` Visual Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge&logo=socketdotio&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=38BDF8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-codx&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-codx&theme=github_dark" />
 
 </div>
 
