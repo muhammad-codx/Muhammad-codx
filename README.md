@@ -48,7 +48,7 @@ Backend developer focused on:
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-codx&theme=github_dark"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-codx&theme=github-dark&hide_border=true"/>
 
 </div>
 
