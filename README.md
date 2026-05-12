@@ -1,87 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&text=BOYMIRZAYEV%20AKBARSHOH&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Backend%20Developer%20%7C%20ERP%20Systems%20%7C%20Real-Time%20Applications&descAlignY=58&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&duration=2800&color=3B82F6&center=true&vCenter=true&width=950&lines=Building+scalable+backend+systems;Designing+ERP+and+automation+platforms;WebSocket+and+real-time+communication;Python+%7C+Django+%7C+Java+%7C+REST+API" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,100:111827&text=BOYMIRZAYEV%20AKBARSHOH&fontColor=ffffff&fontSize=32&animation=fadeIn" />
 
 <br />
 
-<a href="https://github.com/muhammad-codx?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Projects-020617?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/muhammad-codx?tab=followers">
-  <img src="https://img.shields.io/badge/Follow_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/muhammad-codx">
-  <img src="https://img.shields.io/badge/Open_Source-059669?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;ERP+System+Builder;Real-Time+Communication+Systems;Automation+%26+Scalable+Architecture" />
 
 <br />
-<br />
 
-<img src="https://komarev.com/ghpvc/?username=muhammad-codx&style=for-the-badge&color=2563EB" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-Turning ideas into scalable software with clean architecture,
-practical engineering, and strong backend systems.
-```
+<img src="https://img.shields.io/badge/Backend-020617?style=flat-square&logo=serverless&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tashkent-Uzbekistan-111827?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-0F766E?style=flat-square" />
 
 </div>
 
 ---
 
-# About Me
+## `01` About
 
-Backend developer focused on scalable systems, ERP platforms, automation, and real-time applications.
+Backend developer focused on building scalable systems, ERP platforms, automation tools, and real-time applications.
 
-I enjoy building maintainable backend architectures, clean APIs, and business-oriented digital products with performance and scalability in mind.
-
----
-
-# Quick Overview
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Backend_Development-020617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Architecture-Clean_&_Scalable-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Speciality-ERP_&_Automation-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Always_Improving-F97316?style=for-the-badge" />
-
-</div>
+I enjoy designing clean backend architecture, developing practical business systems, and turning product ideas into reliable digital solutions.
 
 ---
 
-# What Defines My Work
-
-- Building scalable backend systems
-- Designing ERP & automation platforms
-- Creating clean and maintainable APIs
-- Developing real-time communication systems
-- Turning startup ideas into practical products
-
----
-
-# Engineering Style
-
-<div align="center">
-
-| Backend | Architecture | Systems | Products |
-|---|---|---|---|
-| APIs, services, integrations | Scalable & maintainable structure | ERP & automation | Startup-oriented solutions |
-
-</div>
-
----
-
-# Tech Stack
+## `02` Tech Stack
 
 <div align="center">
 
@@ -91,139 +34,120 @@ I enjoy building maintainable backend architectures, clean APIs, and business-or
 
 ---
 
-# Signature Technologies
+## `03` Core Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-1E3A8A?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-0369A1?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSocket-0F766E?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" />
+| Language | Backend | Systems | Tools |
+|---|---|---|---|
+| Python, Java | Django, REST API | ERP, WebSocket | Git, Linux |
 
 </div>
 
 ---
 
-# Philosophy
+## `04` Engineering Focus
 
-<div align="center">
-
-| Principle | Meaning |
-|---|---|
-| Clarity first | Systems should stay clean and maintainable |
-| Real-world engineering | Good code solves real business problems |
-| Scalability matters | Software should grow without chaos |
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-codx&theme=github_dark" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-codx&bg_color=0d1117&color=3B82F6&line=2563EB&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-# Current Focus
-
-```text
-Scalable Backend Systems
-ERP & Automation Platforms
-Real-Time Communication
+```txt
+Backend Architecture
+REST API Development
+ERP System Development
+WebSocket Communication
+Business Process Automation
 Startup Product Development
 ```
 
 ---
 
-# Growth Loop
+## `05` Work Areas
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ERP Systems
+
+Business process automation, modular structure, and role-based access control.
+
+</td>
+<td width="33%" align="center">
+
+### Real-Time Apps
+
+WebSocket-based communication with low-latency local network optimization.
+
+</td>
+<td width="33%" align="center">
+
+### Startup Products
+
+Backend systems for scalable, practical, and business-focused digital products.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` GitHub Overview
 
 <div align="center">
 
-```text
-Learn -> Build -> Improve -> Ship -> Repeat
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-codx&theme=github_dark" />
+
+</div>
+
+---
+
+## `07` Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-codx&bg_color=020617&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `08` Current Direction
+
+<div align="center">
+
+```txt
+Junior -> Middle Backend Engineer
+Scalable Startup Products
+ERP & Automation Platforms
+Business-Oriented Digital Infrastructure
 ```
 
 </div>
 
 ---
 
-# Featured Work
+## `09` Collaboration
 
-## ERP System
-- Business process automation
-- Modular architecture
-- Role-based access control
-
-## Real-Time Communication System
-- WebSocket-based communication
-- Optimized for low-latency local networks
-
-## Startup Products
-- Backend systems for scalable products
-- Technical partnership in startup ecosystems
+Open to backend development, ERP projects, automation systems, and startup partnerships.
 
 ---
 
-# Developer Mindset
-
-<div align="center">
-
-```text
-Backend First
-Architecture Minded
-Scalability Focused
-Always Leveling Up
-```
-
-</div>
-
----
-
-# Connect With Me
+## `10` Contact
 
 <div align="center">
 
 <a href="https://t.me/muhammad_codx">
-  <img src="https://img.shields.io/badge/Telegram-@muhammad__codx-2563EB?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-@muhammad__codx-38BDF8?style=for-the-badge&logo=telegram&logoColor=020617" />
 </a>
 
 <a href="mailto:akbarshoh.boymirzayev@mail.ru">
-  <img src="https://img.shields.io/badge/Email-akbarshoh.boymirzayev%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-akbarshoh.boymirzayev%40mail.ru-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 </div>
 
 ---
 
-# Motto
-
 <div align="center">
 
-<i>If you want to win in the lottery, you have to make the money to buy a ticket</i>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:020617&section=footer" />
 
 </div>
