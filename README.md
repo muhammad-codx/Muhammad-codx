@@ -1,20 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=160&section=header&text=BOYMIRZAYEV%20AKBARSHOH&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+# BOYMIRZAYEV AKBARSHOH
 
-Backend Developer  
-Tashkent, Uzbekistan  
+Backend Developer • Tashkent, Uzbekistan
 
 </div>
 
 ---
 
-## Profile
+## About Me
 
-Backend developer focused on building scalable systems, ERP platforms, and business-driven digital products.  
-Actively involved in startup ecosystems, contributing as a technical partner in exchange for equity and long-term growth.
-
-Special interest in system architecture, automation, and real-time communication systems.
+Backend developer focused on scalable systems, ERP platforms, and real-time applications.  
+Interested in system architecture, automation, and startup-driven products.
 
 ---
 
@@ -26,23 +23,14 @@ Special interest in system architecture, automation, and real-time communication
 
 ---
 
-## Core Competencies
+## Skills
 
-- Backend architecture design  
-- ERP system development  
-- REST API development  
-- WebSocket-based real-time systems  
-- Local network communication  
-- Startup product development  
-
----
-
-## Professional Direction
-
-- Transitioning from junior to middle-level backend engineer  
-- Building scalable startup products  
-- Designing ERP and automation systems  
-- Creating business-oriented digital infrastructure  
+- Backend Architecture
+- REST API Development
+- ERP Systems
+- WebSocket & Real-Time Systems
+- Automation Solutions
+- Startup Product Development
 
 ---
 
@@ -50,37 +38,37 @@ Special interest in system architecture, automation, and real-time communication
 
 ### ERP System
 - Business process automation
-- Modular system architecture
+- Modular architecture
 - Role-based access control
 
 ### Real-Time Communication System
-- Built with WebSocket
-- Optimized for local network environments
-- Low-latency communication
+- WebSocket-based communication
+- Low-latency local network optimization
 
 ### Startup Products
-- Participating as backend partner
-- Focused on scalable and monetizable solutions
+- Backend development for scalable products
+- Technical partnership in startup teams
 
 ---
 
+## Goals
+
+- Growing as a middle-level backend engineer
+- Building scalable business systems
+- Developing automation and ERP solutions
+
+---
 
 ## Collaboration
 
 Open to:
-- Startup partnerships (equity-based)
-- Backend system development
-- ERP and automation projects
+- Startup partnerships
+- Backend development projects
+- ERP & automation systems
 
 ---
 
 ## Contact
 
-Telegram: @muhammad_codx  
-Email: akbarshoh.boymirzayev@mail.ru  
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=100&section=footer"/>
-</div>
+- Telegram: @muhammad_codx
+- Email: akbarshoh.boymirzayev@mail.ru
