@@ -216,7 +216,7 @@ Always Leveling Up
 
 <div align="center">
 
-<i>Build scalable systems. Keep them clean. Improve every version.</i>
+<i>If you want to win in the lottery, you have to make the money to buy a ticket</i>
 
 </div>
 
