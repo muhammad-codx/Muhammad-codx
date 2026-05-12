@@ -89,7 +89,17 @@ Backend systems for scalable, practical, and business-focused digital products.
 
 ---
 
-## `06` GitHub Overview
+## `06` Repository Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-codx&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-codx&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=cbd5e1" />
+
+</div>
+
+<br />
 
 <div align="center">
 
@@ -99,7 +109,23 @@ Backend systems for scalable, practical, and business-focused digital products.
 
 ---
 
-## `07` Activity
+## `07` Languages & Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge&logo=socketdotio&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=38BDF8" />
+
+</div>
+
+---
+
+## `08` Contribution Activity
 
 <div align="center">
 
@@ -109,7 +135,7 @@ Backend systems for scalable, practical, and business-focused digital products.
 
 ---
 
-## `08` Current Direction
+## `09` Current Direction
 
 <div align="center">
 
@@ -124,13 +150,13 @@ Business-Oriented Digital Infrastructure
 
 ---
 
-## `09` Collaboration
+## `10` Collaboration
 
 Open to backend development, ERP projects, automation systems, and startup partnerships.
 
 ---
 
-## `10` Contact
+## `11` Contact
 
 <div align="center">
 
@@ -141,6 +167,14 @@ Open to backend development, ERP projects, automation systems, and startup partn
 <a href="mailto:akbarshoh.boymirzayev@mail.ru">
   <img src="https://img.shields.io/badge/Email-akbarshoh.boymirzayev%40mail.ru-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammad-codx&style=for-the-badge&color=38BDF8" />
 
 </div>
 
