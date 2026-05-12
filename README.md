@@ -39,12 +39,9 @@ Backend developer focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-codx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-codx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-codx&theme=github_dark"/>
 
 </div>
-
 ---
 
 ## Contribution Graph
