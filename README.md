@@ -115,12 +115,12 @@ Configuring vector databases and local embedding infrastructures to power highly
 
 ---
 
-## `08` Professional Competence & Goals
+## `08` Professional Competence & Focus
 
 <div align="center">
 
 ```txt
-Mid-Level Backend Software Engineer Core
 High-Concurrency Write-Behind Caching Designs
 Scalable Startup & Automation Products
 Business-Oriented Digital & AI Infrastructure
+Advanced Backend Optimization & Core Architecture
