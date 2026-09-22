@@ -1,79 +1,50 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,100:111827&text=BOYMIRZAYEV%20AKBARSHOH&fontColor=ffffff&fontSize=32&animation=fadeIn" />
+# Hey, I'm Akbarshoh 🚀
 
-<br />
-
-<!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Architect;Full-Stack+Engineer;ERP+System+Builder;AI+%26+RAG+Infrastructure" />
-
-<br />
-
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Backend-020617?style=flat-square&logo=serverless&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Tashkent-Uzbekistan-111827?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-0F766E?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=820&lines=Full-Stack+%2F+Backend+Developer;Python+%2B+Django+%2B+REST+APIs;ERP+%26+CRM+Systems+Builder;Founder+of+Baytchain;Diving+into+LLMs%2C+RAG+%26+MCP" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `01` About Me
+### 🧑‍💻 A Bit About Me
 
-I am a dedicated Backend and Full-Stack Software Engineer focused on building high-performance ERP platforms, scalable system architectures, automated tools, and real-time data monitoring applications. I specialize in turning complex business logic into clean, production-ready code while keeping optimization, caching layers, and database performance at the core of my workflow.
-
-*   🚀 **Founder & Core Architect** at **WebCraft IT Center**, driving technical curriculum and mentoring next-gen developers.
-*   🧠 Deeply engaged in building local **AI infrastructure**, deploying custom Large Language Models (LLMs), and designing advanced **Retrieval-Augmented Generation (RAG)** frameworks.
-*   ⚡ Passionate about microservices optimization, database connection pooling, and creating highly resilient server infrastructures.
-
----
-
-## `02` Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,linux,java,html,css,bootstrap,git&theme=dark" />
-
-</div>
-
----
-
-## `03` Core Architectural Focus
-
-<div align="center">
-
-| Language & Core | Databases & Caching | Systems & Protocols | Tools & Infra |
-|---|---|---|---|
-| Python, Django, DRF, Java | PostgreSQL, Redis | ERP Engines, WebSockets, RAG | Git, Linux, Ollama |
-
-</div>
+```python
+akbarshoh = {
+    "role": "Full-Stack / Backend Developer",
+    "study": "Software Engineering @ Turin Polytechnic University, Tashkent",
+    "experience": "3+ years across ERP, CRM, and HR automation systems",
+    "stack": {
+        "backend": ["Python", "Django", "REST API", "Nginx"],
+        "devops": ["Docker", "Git", "GitHub Actions", "Linux"],
+        "security": ["Nmap", "Metasploit"],
+        "exploring": ["Kotlin", "Java", "Go", "C#", ".NET", "LLMs", "RAG", "MCP"]
+    },
+    "building": "Baytchain — a REIT-based blockchain platform",
+    "funFact": "I once tried running an LLM locally and lost the fight to GPU cooling 😅"
+}
+```
 
 ---
 
-## `04` Engineering & Work Areas
+### 🎯 What I'm Working On
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-### 📊 ERP & Balances
-
-Designing enterprise-grade backends utilizing Django REST Framework to compute complex data flows, transaction grids, and real-time gas monitoring/network loss balance calculations.
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ Optimization & JBU
-
-Engineering advanced utilities like the *Jittered Backpressure Uploader (JBU)* to control write-behind caching states, completely mitigating the thundering herd problem in high-concurrency setups.
+**🔨 Currently Building**
+🏦 Baytchain — REIT-based blockchain platform
+🩺 erp.bodytester.uz — clinic ERP integrated with the Bodytester device
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-### 🤖 Local AI Pipelines
-
-Configuring vector databases and local embedding infrastructures to power highly scalable internal data search components without external API dependencies.
+**🌱 Currently Exploring**
+🤖 LLMs, RAG & MCP
+🔐 Practical security tooling (Nmap, Metasploit)
+🧩 Kotlin, Go & .NET
 
 </td>
 </tr>
@@ -81,46 +52,66 @@ Configuring vector databases and local embedding infrastructures to power highly
 
 ---
 
-## `05` Repository Analytics
+### 🛠️ Tech Stack
 
-<div align="center">
+**Backend**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-codx&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=cbd5e1&icon_color=38BDF8" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-codx&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=cbd5e1" />
+**DevOps**
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+**Security**
 
-## `06` Visual Commit Stats
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-<div align="center">
+**On My Radar**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-codx&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-codx&theme=github_dark" />
-
-</div>
-
----
-
-## `07` Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-codx&bg_color=020617&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" />
-
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-## `08` Professional Competence & Focus
+### 📂 Projects I'm Proud Of
 
-<div align="center">
+| Project | What it is |
+|---|---|
+| 🏦 **[Baytchain](https://baytchain.uz)** | REIT-based blockchain platform — founder & developer |
+| 🩺 **[erp.bodytester.uz](https://erp.bodytester.uz)** | Full clinic ERP: reception, health measurements, import/export, integrated with the Bodytester device |
+| 🌐 **[bodytester.uz](https://bodytester.uz)** | Public product site for Bodytester — designed & built end-to-end |
+| 🏢 **Xandecor CRM/ERP** | Internal sales, HR & inventory system (staff-only) |
+| 👥 **HR Automation System** | Built during my internship at Autorubber LLC |
 
-```txt
-High-Concurrency Write-Behind Caching Designs
-Scalable Startup & Automation Products
-Business-Oriented Digital & AI Infrastructure
-Advanced Backend Optimization & Core Architecture
+---
+
+### 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadcodx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadcodx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+---
+
+### 📫 Let's Connect
+
+<a href="https://github.com/muhammadcodx">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/akbarshohboymirzayev">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:akbarshoh.boymirzayev@mail.ru">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
